@@ -1,0 +1,26 @@
+.reviews {
+  width: 900px;
+  margin: 0 auto;
+}
+
+.list__item {
+  margin-bottom: 40px;
+}
+
+.reviews__title {
+  padding-left: 25px;
+  padding-bottom: 10px;
+  font-family: 'Open Sans', sans-serif;
+}
+.reviews__title_name {
+  font-style: oblique;
+}
+
+.space {
+  padding-left: 15px;
+}
+.reviews__text {
+  letter-spacing: 0.05rem;
+  line-height: 1.3rem;
+  font-family: 'Open Sans', sans-serif;
+}
